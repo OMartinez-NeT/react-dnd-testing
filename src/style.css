@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+}
+
+h1{
+    margin: 0;
+}
+
+.drag-drop-context{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
